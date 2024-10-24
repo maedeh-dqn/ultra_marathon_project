@@ -286,7 +286,7 @@ This project serves as a comprehensive introduction to Pandas for data analysts,
 
 ## User Guide
 
-1. **Clone the Repository**: Clone this project repository from GitHub.
+1. **Clone the Repository**: Clone this project repository from this link: https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running/discussion?sort=hotness.
 2. **Upload the dataset**: Upload `TWO_CENTURIES_OF_UM_RACES` file to your coding environment.
 3. **Run the Queries**: Use the Pandas queries provided in the `Analysis.ipynb` file to perform your analysis.
 4. **Explore and Modify**: Feel free to modify the queries to explore different aspects of the dataset or answer additional analytical questions.
